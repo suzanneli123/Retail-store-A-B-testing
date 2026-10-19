@@ -53,7 +53,7 @@ Pre-trial data is from July 2018 - January 2019. Trial data is from February 201
 - **Small sample.** Three stores over three months. Having more stores and over longer period would help provide more reliable results.
 - **Daily sales aren't independent.** The paired t-test assumes they are, and they probably aren't (weekly patterns, for one). A permutation test or a difference-in-differences model would be a good way to check the result.
 - **Store 88's control is weak.** I'd like to try matching on more metrics, or use a synthetic control built from several stores instead of just one.
-- **External factors** Some of the change could come from changes in pricing, promotions, and product mix, not the trial itself.
+- **External factors** Some of the change could come from pricing, promotions, and product mix, not the trial itself.
 
 # Challenges
 - **Control Store Matching**: Finding stores with similar sales performance and customer patterns to make fair comparisons.
