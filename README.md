@@ -12,7 +12,7 @@ The goal of this project is to understand customer purchasing behavior, identify
 
 **Data Source:**
 
-There are three files. They come from Forage - Quantium retail analytics virtual experience (the "QVI" datasets):
+There are three files. They come from Quantium retail analytics virtual experience (the "QVI" datasets):
 
 | File | What's in it |
 |---|---|
