@@ -43,7 +43,10 @@ After cleaning, the data has 264,833 rows covering 72,636 loyalty customers acro
 
 ---
 # Recommendations 
-
+- **Don't roll out company-wide yet.** The results look promising, but the evidence isn't strong enough. Extend the trial or add more stores so the test has enough statistical power.
+- **Marketing:** try loyalty offers for High Value customers and win-back offers for the At Risk group. Together they make up over 80% of sales.
+- **Supply chain:** if the trial does expand, check stock levels and reorder plans for Kettle and the other top brands first. More customers coming in only helps if the shelves aren't empty.
+- **Store operations:** find out what store 77 did differently (displays, staffing, how the trial was run). It had nearly double the lift of the other two stores.
 
 # Limitations
 
