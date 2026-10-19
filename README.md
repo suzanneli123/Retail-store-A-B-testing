@@ -4,11 +4,8 @@
 A supermarket retailer wants to grow its chip sales but needs a better understanding of customer shopping habits and what contributes to sales performance. The retailer is also interested in testing a new store layout to see whether it could help increase sales.
 The goal of this project is to understand customer purchasing behavior, identify opportunities to increase chip sales, and evaluate the effectiveness of the new store layout. To achieve this, I analyzed transaction data to identify sales trends and customer purchasing patterns. I used RFM segmentation to group customers based on their shopping behavior and A/B testing to compare the performance of three trial stores with similar control stores. The findings were used to develop recommendations to help the retailer improve customer retention, increase sales, and decide whether to expand the new layout to other stores.
 
-# Methodology
+# Data Source
 
-**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the notebook)
-
-**Data Source:**
 
 There are three files. They come from Quantium retail analytics virtual experience (the "QVI" datasets):
 
@@ -19,6 +16,10 @@ There are three files. They come from Quantium retail analytics virtual experien
 | `QVI_data.csv` | The two above already merged, plus pack size and brand.  **This is the one the analysis runs on.** |
 
 After cleaning, the data has 264,833 rows covering 72,636 loyalty customers across 272 stores, from July 2018 to June 2019 (12 months). Trial data is from February 2019 - April 2019.
+
+# Methodology
+
+**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the notebook)\
 
 **Approach:**  
 1. **Data Cleaning & Preparation**: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
