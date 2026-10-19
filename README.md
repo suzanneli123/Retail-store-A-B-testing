@@ -36,10 +36,12 @@ After cleaning, the data has 264,833 rows covering 72,636 loyalty customers acro
 6. Business insights & Recommendations: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
 
 # Results
+- All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
+- Store 77 had the biggest jump (**+26%**). Stores 86 and 88 were both around **+12 to 13%**.
+- **None of the differences were statistically significant** at the 0.05 level (p-values between 0.08 and 0.11). The numbers point in the right direction, but there's too much day-to-day noise to say the trial *caused* the increase.
+- At stores 77 and 86 the extra sales came mostly from **more customers**, not from people shopping more often. At store 88 it was a bit of both.
 
-
-# Insights 
-
+---
 # Recommendations 
 
 
