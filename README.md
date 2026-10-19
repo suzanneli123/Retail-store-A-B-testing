@@ -23,7 +23,7 @@ There are three files. They come from the Quantium retail analytics virtual expe
 After cleaning, the data has 264,833 rows covering 72,636 loyalty customers across 272 stores, from July 2018 to June 2019 (12 months).
 
 **Approach:**  
-1. Data Cleaning & Preparation: Checked for duplicates, missing values, and outliers, cleaned the datasets, and prepared the data for analysis.
+1. Data Cleaning & Preparation: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
 
 2. Exploratory Data Analysis (EDA): Used SQL to calculate key sales KPIs and explore monthly sales trends, store performance, and top-selling products and brands.
 
