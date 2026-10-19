@@ -41,7 +41,7 @@ After cleaning, the data has 264,833 rows covering 72,636 loyalty customers acro
 - **None of the differences were statistically significant** at the 0.05 level (p-values between 0.08 and 0.11). The numbers point in the right direction, but there's too much day-to-day noise to say the trial *caused* the increase.
 - At stores 77 and 86 the extra sales came mostly from **more customers**, not from people shopping more often. At store 88 it was a bit of both.
 
----
+
 # Recommendations 
 - **Don't roll out company-wide yet.** The results look promising, but the evidence isn't strong enough. Extend the trial or add more stores so the test has enough statistical power.
 - **Marketing:** try loyalty offers for High Value customers and win-back offers for the At Risk group. Together they make up over 80% of sales.
