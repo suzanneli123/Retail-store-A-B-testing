@@ -10,14 +10,16 @@ The goal of this project is to understand customer purchasing behavior, identify
 
 **Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the notebook)
 
-**Data Source**
+**Data Source:**
+
 There are three files. They come from the Quantium retail analytics virtual experience (the "QVI" datasets):
 
 | File | What's in it |
 |---|---|
 | `QVI_transaction_data.xlsx` | One row per product line in a transaction: date, store, loyalty card, product, quantity, sales |
 | `QVI_purchase_behaviour.csv` | One row per loyalty customer: life stage and premium tier (Budget / Mainstream / Premium) |
-| `QVI_data.csv` | The two above already merged, plus pack size and brand. **This is the one the analysis runs on.** |
+| `QVI_data.csv` | The two above already merged, plus pack size and brand. 
+**This is the one the analysis runs on.** |
 
 After cleaning, the data has 264,833 rows covering 72,636 loyalty customers across 272 stores, from July 2018 to June 2019 (12 months).
 
