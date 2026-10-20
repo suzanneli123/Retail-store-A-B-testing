@@ -53,6 +53,27 @@ There are three files. They come from Quantium retail analytics virtual experien
 5. **Business Insights & Recommendations**: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
 
 ## Exploratory Data Analysis (EDA) 
+
+**KPIs**
+- Average sales per transaction
+  ```SQL
+     SELECT
+    AVG(transaction_sales) AS avg_sales_per_transaction
+FROM (
+    SELECT
+        TXN_ID,
+        SUM(TOT_SALES) AS transaction_sales
+    FROM sales
+    GROUP BY TXN_ID);
+- Average quantity per transaction
+  <img width="856" height="398" alt="image" src="https://github.com/user-attachments/assets/5f48ad29-5cf9-472c-b9dc-46970693139d" />
+- Average transactions per month
+  <img width="1024" height="408" alt="image" src="https://github.com/user-attachments/assets/dc5cda7b-a295-49bd-9b76-bcb2c4d8b13a" />
+- Average transactions per store
+  <img width="992" height="404" alt="image" src="https://github.com/user-attachments/assets/0935401d-161b-426a-b520-b5c3802214e7" />
+- Monthly sales
+
+
 <img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
 
 
