@@ -193,15 +193,19 @@ Analysis of Customer groups based on RFM and sales
 # Challenges
 - **Control Store Matching**: Finding stores with similar sales performance and customer patterns to make fair comparisons.
 
-# 🧠 Key Takeaway
+# Key Takeaway
 > **Good analytics is not about proving that an idea worked. It is about determining whether the available evidence is strong enough to support a business decision.**
 This trial generated promising results, but responsible decision-making requires additional evidence before committing to a large-scale rollout.
 ---
-# 💼 Skills Demonstrated
+### Skills Demonstrated
 
+| Category / Tool | Core Competency |
+| :--- | :--- |
+| **Languages & Libraries** | `Python`, `SQL`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib` |
+| **Analysis & Techniques** | `EDA`, `RFM Segmentation`, `Customer Analytics`, `Experimental Analysis` |
+| **Statistical & Business** | `Statistical Testing`, `Control Store Matching`, `Business Analytics`, `Data Storytelling` |
 
-
-## 👤 Author
+## Author
 **Suzanne Li**
 
 Retail Analytics | Customer Analytics | Experimentation | Python | SQL
