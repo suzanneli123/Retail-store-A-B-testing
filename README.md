@@ -69,8 +69,8 @@ FROM (
 ```
 
 - Average quantity per transaction
-  ```SQL
-    SELECT
+```sql
+SELECT
     AVG(quantity) AS avg_quantity_per_transaction
     FROM (
       SELECT
@@ -78,10 +78,11 @@ FROM (
         SUM(PROD_QTY) AS quantity
     FROM sales
     GROUP BY TXN_ID);
+```
 
 
 - Average transactions per month
-```SQL
+```sql
    SELECT
     AVG(monthly_transactions) AS avg_transactions_per_month
    FROM (
@@ -90,7 +91,7 @@ FROM (
         COUNT(DISTINCT TXN_ID) AS monthly_transactions
     FROM sales
     GROUP BY YEAR_MONTH);
-
+```
 
 - Average transactions per store
 SELECT
