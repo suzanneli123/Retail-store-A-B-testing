@@ -66,13 +66,42 @@ There are three files. They come from Quantium retail analytics virtual experien
     FROM sales
     GROUP BY TXN_ID);
 - Average quantity per transaction
-  <img width="856" height="398" alt="image" src="https://github.com/user-attachments/assets/5f48ad29-5cf9-472c-b9dc-46970693139d" />
+  ```SQL
+    SELECT
+    AVG(quantity) AS avg_quantity_per_transaction
+    FROM (
+      SELECT
+        TXN_ID,
+        SUM(PROD_QTY) AS quantity
+    FROM sales
+    GROUP BY TXN_ID);
 - Average transactions per month
-  <img width="1024" height="408" alt="image" src="https://github.com/user-attachments/assets/dc5cda7b-a295-49bd-9b76-bcb2c4d8b13a" />
+```SQL
+   SELECT
+    AVG(monthly_transactions) AS avg_transactions_per_month
+   FROM (
+    SELECT
+        YEAR_MONTH,
+        COUNT(DISTINCT TXN_ID) AS monthly_transactions
+    FROM sales
+    GROUP BY YEAR_MONTH);
 - Average transactions per store
-  <img width="992" height="404" alt="image" src="https://github.com/user-attachments/assets/0935401d-161b-426a-b520-b5c3802214e7" />
+SELECT
+    AVG(store_transactions) AS avg_transactions_per_store
+FROM (
+    SELECT
+        STORE_NBR,
+        COUNT(DISTINCT TXN_ID) AS store_transactions
+    FROM sales
+    GROUP BY STORE_NBR);
 - Monthly sales
-
+```SQL
+   SELECT
+    YEAR_MONTH,
+    SUM(TOT_SALES) AS total_sales
+  FROM sales
+  GROUP BY YEAR_MONTH
+  ORDER BY YEAR_MONTH;
 
 <img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
 
