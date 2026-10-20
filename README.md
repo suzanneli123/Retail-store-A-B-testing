@@ -55,6 +55,7 @@ There are three files. They come from Quantium retail analytics virtual experien
 ## Exploratory Data Analysis (EDA) 
 
 **KPIs**
+
 Average sales per transaction
 ```sql
 SELECT 
