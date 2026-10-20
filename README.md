@@ -66,7 +66,7 @@ FROM (
     FROM sales
     GROUP BY TXN_ID
 );
-
+```
 
 - Average quantity per transaction
   ```SQL
