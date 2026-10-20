@@ -57,7 +57,7 @@ There are three files. They come from Quantium retail analytics virtual experien
 **KPIs**
 - Average sales per transaction
   ```SQL
-     SELECT
+   SELECT
     AVG(transaction_sales) AS avg_sales_per_transaction
    FROM (
     SELECT
