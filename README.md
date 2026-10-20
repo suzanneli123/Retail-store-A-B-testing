@@ -116,7 +116,12 @@ Monthly sales
   ORDER BY YEAR_MONTH;
 ```
 
-<img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
+
+#### Figure 1: Monthly Sales Trend
+Analysis of total sales aggregated by year and month.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" width="700">
+</p>
 
 
 <img width="2008" height="962" alt="image" src="https://github.com/user-attachments/assets/bb326be0-c279-4e91-9d28-b30d519c4306" />
