@@ -166,6 +166,11 @@ Analysis of Customer groups based on RFM and sales
 </p>
 
 
+#### Figure 8: Statistical Significance of Paired T-test results (Trial store vs. Matched Control store)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e986df57-522a-415b-abfb-65c85c1d6d32" width="700">
+</p>
+
 # Results
 - All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
 - Store 77 had the biggest jump (**+26%**). Stores 86 and 88 were both around **+12 to 13%**.
