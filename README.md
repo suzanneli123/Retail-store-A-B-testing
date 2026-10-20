@@ -21,7 +21,7 @@ Pre-trial data is from July 2018 - January 2019. Trial data is from February 201
 
 # Methodology
 
-**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the notebook)\
+**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the Juypter notebook)\
 
 **Approach:**  
 1. **Data Cleaning & Preparation**: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
