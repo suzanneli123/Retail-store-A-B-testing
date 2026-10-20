@@ -203,4 +203,5 @@ This trial generated promising results, but responsible decision-making requires
 
 ## 👤 Author
 **Suzanne Li**
+
 Retail Analytics | Customer Analytics | Experimentation | Python | SQL
