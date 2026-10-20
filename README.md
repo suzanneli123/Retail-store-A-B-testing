@@ -162,9 +162,8 @@ Analysis of Customer groups based on RFM and sales
 
 #### Figure 7: Paired T-Test of Trial store vs. Matched Control store
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bdb5c9a2-3520-4757-9ad5-d412730e7651" width="700">
+  <img src="https://github.com/user-attachments/assets/1ba65d4f-63ef-43c2-9f20-a0326b17d5ea" width="700">
 </p>
-
 
 
 # Results
