@@ -55,7 +55,7 @@ There are three files. They come from Quantium retail analytics virtual experien
 ## Exploratory Data Analysis (EDA) 
 
 **KPIs**
-- Average sales per transaction
+Average sales per transaction
 ```sql
 SELECT 
     AVG(transaction_sales) AS avg_sales_per_transaction
@@ -68,7 +68,7 @@ FROM (
 );
 ```
 
-- Average quantity per transaction
+Average quantity per transaction
 ```sql
 SELECT
     AVG(quantity) AS avg_quantity_per_transaction
@@ -81,7 +81,7 @@ SELECT
 ```
 
 
-- Average transactions per month
+Average transactions per month
 ```sql
    SELECT
     AVG(monthly_transactions) AS avg_transactions_per_month
@@ -93,7 +93,7 @@ SELECT
     GROUP BY YEAR_MONTH);
 ```
 
-- Average transactions per store
+Average transactions per store
 ```sql
 SELECT
     AVG(store_transactions) AS avg_transactions_per_store
@@ -105,7 +105,7 @@ FROM (
     GROUP BY STORE_NBR);
 ```
 
-- Monthly sales
+Monthly sales
 ```sql
    SELECT
     YEAR_MONTH,
