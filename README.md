@@ -36,6 +36,12 @@ Pre-trial data is from July 2018 - January 2019. Trial data is from February 201
 
 6. **Business Insights & Recommendations**: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
 
+
+## Exploratory Data Analysis (EDA) 
+???
+??
+??
+
 # Results
 - All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
 - Store 77 had the biggest jump (**+26%**). Stores 86 and 88 were both around **+12 to 13%**.
