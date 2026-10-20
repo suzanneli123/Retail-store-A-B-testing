@@ -56,15 +56,16 @@ There are three files. They come from Quantium retail analytics virtual experien
 
 **KPIs**
 - Average sales per transaction
-  ```SQL
-   SELECT
+```sql
+SELECT 
     AVG(transaction_sales) AS avg_sales_per_transaction
-   FROM (
-    SELECT
+FROM (
+    SELECT 
         TXN_ID,
         SUM(TOT_SALES) AS transaction_sales
     FROM sales
-    GROUP BY TXN_ID);
+    GROUP BY TXN_ID
+);
 - Average quantity per transaction
   ```SQL
     SELECT
