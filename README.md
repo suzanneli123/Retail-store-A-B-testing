@@ -174,7 +174,7 @@ Analysis of Customer groups based on RFM and sales
 # Results
 - All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
 - Store 77 had the biggest jump (**+26%**). Stores 86 and 88 were both around **+12 to 13%**.
-- **None of the differences were statistically significant** at the 0.05 level (p-values between 0.08 and 0.11). The numbers point in the right direction, but there's too much day-to-day noise to say the trial *caused* the increase.
+- **None of the differences were statistically significant** at the 0.05 level (p-values between 0.08 and 0.11). We fail to reject the null hypothesis and conclude that the test did not provide enough evidence to conclude that average daily sales were different during the trial.
 - At stores 77 and 86 the extra sales came mostly from **more customers**, not from people shopping more often. At store 88 it was a bit of both.
 
 # Recommendations 
