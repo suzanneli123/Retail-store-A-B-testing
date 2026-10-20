@@ -198,9 +198,9 @@ Analysis of Customer groups based on RFM and sales
 This trial generated promising results, but responsible decision-making requires additional evidence before committing to a large-scale rollout.
 ---
 # 💼 Skills Demonstrated
-This project demonstrates practical experience in:
-`Python` • `SQL` • `Pandas` • `NumPy` • `SciPy` • `Matplotlib` • `EDA` • `RFM Segmentation` • `Customer Analytics` • `Experimental Analysis` • `Statistical Testing` • `Control Store Matching` • `Business Analytics` • `Data Storytelling`
----
+
+
+
 ## 👤 Author
 **Suzanne Li**
 Retail Analytics | Customer Analytics | Experimentation | Python | SQL
