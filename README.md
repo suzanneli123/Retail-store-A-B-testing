@@ -1,8 +1,15 @@
 # Retail Store Trial: A/B Testing & Customer Analytics
 
 # Business Goal
-A supermarket retailer wants to grow its chip sales but needs a better understanding of customer shopping habits and what contributes to sales performance. The retailer is also interested in testing a new store layout to see whether it could help increase sales.
-The goal of this project is to understand customer purchasing behavior, identify opportunities to increase chip sales, and evaluate the effectiveness of the new store layout. To achieve this, I analyzed transaction data to identify sales trends and customer purchasing patterns. I used RFM segmentation to group customers based on their shopping behavior and A/B testing to compare the performance of three trial stores with similar control stores. The findings were used to develop recommendations to help the retailer improve customer retention, increase sales, and decide whether to expand the new layout to other stores.
+A supermarket retailer wants to increase chip sales while gaining a better understanding of customer purchasing behaviour.
+As part of this initiative, the retailer introduced a **new store layout in three trial stores** and wanted to determine whether the change resulted in a meaningful improvement in sales.
+
+The goal of this project
+1. understand customer purchasing behavior
+2. identify opportunities to increase chip sales
+3. evaluate the effectiveness of the new store layout.
+
+To achieve this, I analyzed transaction data to identify sales trends and customer purchasing patterns. I used RFM segmentation to group customers based on their shopping behavior and A/B testing to compare the performance of three trial stores with similar control stores. The findings were used to develop recommendations to help the retailer improve customer retention, increase sales, and decide whether to expand the new layout to other stores.
 
 # Data Source
 
