@@ -94,6 +94,7 @@ SELECT
 ```
 
 - Average transactions per store
+```sql
 SELECT
     AVG(store_transactions) AS avg_transactions_per_store
 FROM (
@@ -102,10 +103,10 @@ FROM (
         COUNT(DISTINCT TXN_ID) AS store_transactions
     FROM sales
     GROUP BY STORE_NBR);
-
+```
 
 - Monthly sales
-```SQL
+```sql
    SELECT
     YEAR_MONTH,
     SUM(TOT_SALES) AS total_sales
