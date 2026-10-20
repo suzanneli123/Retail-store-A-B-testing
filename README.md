@@ -135,7 +135,10 @@ Analysis of Customer groups based on RFM and sales
   <img src="https://github.com/user-attachments/assets/f3e4023f-d5f8-4fad-a49c-1f8d65eadf91" width="700">
 </p>
 
-<img width="1904" height="962" alt="image" src="https://github.com/user-attachments/assets/5bc9a089-e34d-4569-a175-dd0d190522f0" />
+#### Figure 4: Visual analysis of Customer RFM segmentation (Recency, Frequency, Monetary Value) with Sales
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5bc9a089-e34d-4569-a175-dd0d190522f0" width="700">
+</p>
 
 
 
