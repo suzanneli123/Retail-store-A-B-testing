@@ -129,10 +129,10 @@ Analysis of top 5 chip brands.
   <img src="https://github.com/user-attachments/assets/bb326be0-c279-4e91-9d28-b30d519c4306" width="700">
 </p>
 
-#### Figure 3: Top 5 Chip Brands by sales
-Analysis of top 5 chip brands.
+#### Figure 3: Customer RFM segmentation (Recency, Frequency, Monetary Value) with Sales
+Analysis of Customer groups based on RFM and sales
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/bb326be0-c279-4e91-9d28-b30d519c4306](https://github.com/user-attachments/assets/f3e4023f-d5f8-4fad-a49c-1f8d65eadf91)" width="700">
+  <img src="https://github.com/user-attachments/assets/f3e4023f-d5f8-4fad-a49c-1f8d65eadf91" width="700">
 </p>
 
 <img width="1904" height="962" alt="image" src="https://github.com/user-attachments/assets/5bc9a089-e34d-4569-a175-dd0d190522f0" />
