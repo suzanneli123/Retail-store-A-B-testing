@@ -44,7 +44,7 @@ There are three files. They come from Quantium retail analytics virtual experien
 **Approach:**  
 1. **Data Cleaning & Preparation**: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
 
-2. **Exploratory Data Analysis (EDA)**: Used SQL to calculate key sales KPIs and analyze monthly sales trends, store performance, top-selling products, leading brands, and customer purchasing behavior
+2. **Exploratory Data Analysis (EDA)**: Used SQL to evaluate key sales KPIs, monthly trends, store performance, top-performing products and brands, and customer purchasing behaviour through RFM segmentation.
    
 3. **Control Store Matching**: Used pre-trial sales and customer trends, along with correlation and similarity scores, to identify **a matched control store** for each trial store. The matched control represents a non-trial store with similar historical performance and serves as the benchmark for measuring the impact of the intervention.
 
@@ -52,11 +52,14 @@ There are three files. They come from Quantium retail analytics virtual experien
 
 5. **Business Insights & Recommendations**: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
 
-
 ## Exploratory Data Analysis (EDA) 
-???
-??
-??
+<img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
+
+
+
+
+## A/B testing
+
 
 # Results
 - All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
