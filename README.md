@@ -205,7 +205,3 @@ This trial generated promising results, but responsible decision-making requires
 | **Analysis & Techniques** | `EDA`, `RFM Segmentation`, `Customer Analytics`, `Experimental Analysis` |
 | **Statistical & Business** | `Statistical Testing`, `Control Store Matching`, `Business Analytics`, `Data Storytelling` |
 
-## Author
-**Suzanne Li**
-
-Retail Analytics | Customer Analytics | Experimentation | Python | SQL
