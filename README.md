@@ -113,6 +113,7 @@ FROM (
   FROM sales
   GROUP BY YEAR_MONTH
   ORDER BY YEAR_MONTH;
+```
 
 <img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
 
