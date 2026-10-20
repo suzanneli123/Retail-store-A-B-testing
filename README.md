@@ -39,20 +39,18 @@ There are three files. They come from Quantium retail analytics virtual experien
 
 # Methodology
 
-**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite, run in memory from inside the Juypter notebook)\
+**Tools:** Python (pandas, NumPy, SciPy, matplotlib) and SQL (SQLite run in from inside the Juypter notebook)
 
 **Approach:**  
 1. **Data Cleaning & Preparation**: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
 
-2. **Exploratory Data Analysis (EDA)**: Used SQL to calculate key sales KPIs and explore monthly sales trends, store performance, and top-selling products and brands.
+2. **Exploratory Data Analysis (EDA)**: Used SQL to calculate key sales KPIs and explore monthly sales trends, store performance, and top-selling products and brands. Analyzed customer purchasing behavior by lifestage, premium tier, and RFM segmentation to identify high-value customers and spending patterns.
 
-3. **Customer Analysis**: Analyzed customer purchasing behavior by lifestage, premium tier, and RFM segmentation to identify high-value customers and spending patterns.
+3. **Control Store Matching**: Used pre-trial sales and customer trends to identify the most similar control store for each trial store using correlation and similarity scores.
 
-4. **Control Store Matching**: Used pre-trial sales and customer trends to identify the most similar control store for each trial store using correlation and similarity scores.
+4. **A/B Testing & Statistical Analysis**: Calculated estimated sales lift, performed paired t-tests to evaluate statistical significance, and examined changes in customer counts and purchase frequency.
 
-5. **A/B Testing & Statistical Analysis**: Calculated estimated sales lift, performed paired t-tests to evaluate statistical significance, and examined changes in customer counts and purchase frequency.
-
-6. **Business Insights & Recommendations**: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
+5. **Business Insights & Recommendations**: Used the key findings to recommend ways to improve customer retention, increase sales, and determine whether the trial should be expanded to other stores.
 
 
 ## Exploratory Data Analysis (EDA) 
