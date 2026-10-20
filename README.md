@@ -44,8 +44,8 @@ There are three files. They come from Quantium retail analytics virtual experien
 **Approach:**  
 1. **Data Cleaning & Preparation**: Checked for duplicates, missing values, and outliers, removed duplicate value, flagged outliers, and prepared the data for analysis.
 
-2. **Exploratory Data Analysis (EDA)**: Used SQL to calculate key sales KPIs and analyze monthly sales trends, store performance, top-selling products, leading brands, and customer purchasing behavior to identify high-value customers and spending patterns.
-
+2. **Exploratory Data Analysis (EDA)**: Used SQL to calculate key sales KPIs and analyze monthly sales trends, store performance, top-selling products, leading brands, and customer purchasing behavior
+   
 3. **Control Store Matching**: Used pre-trial sales and customer trends to identify the most similar control store for each trial store using correlation and similarity scores.
 
 4. **A/B Testing & Statistical Analysis**: Calculated estimated sales lift, performed paired t-tests to evaluate statistical significance, and examined changes in customer counts and purchase frequency.
