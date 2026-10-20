@@ -140,12 +140,25 @@ Analysis of Customer groups based on RFM and sales
   <img src="https://github.com/user-attachments/assets/5bc9a089-e34d-4569-a175-dd0d190522f0" width="700">
 </p>
 
-
-
-
-
 ## A/B testing
 
+#### Figure 5: Matched control store and Trial store using similarity score
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d4afd22-11e7-42c4-aeac-4ea19b2ebccf" width="700">
+</p>
+
+#### Figure 6: Monthly sales comparison of Trial store vs. Matched Control store
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d78cd4b-a614-467a-bbdb-0ab3155cf025" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92e9705a-6fac-467b-90b3-6fcb5340897e" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c800261b-5c8d-46f1-8184-732b4d5f7679" width="700">
+</p>
 
 # Results
 - All three trial stores sold more than expected during the trial. Combined, they were **13.7% above** what their matched control stores predicted.
