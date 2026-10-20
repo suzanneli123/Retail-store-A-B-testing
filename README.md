@@ -56,6 +56,14 @@ There are three files. They come from Quantium retail analytics virtual experien
 <img width="2196" height="1162" alt="image" src="https://github.com/user-attachments/assets/488a64dd-b636-4154-aded-e9f95ec95483" />
 
 
+<img width="2008" height="962" alt="image" src="https://github.com/user-attachments/assets/bb326be0-c279-4e91-9d28-b30d519c4306" />
+
+
+<img width="1736" height="382" alt="image" src="https://github.com/user-attachments/assets/f3e4023f-d5f8-4fad-a49c-1f8d65eadf91" />
+<img width="1904" height="962" alt="image" src="https://github.com/user-attachments/assets/5bc9a089-e34d-4569-a175-dd0d190522f0" />
+
+
+
 
 
 ## A/B testing
