@@ -59,7 +59,7 @@ There are three files. They come from Quantium retail analytics virtual experien
   ```SQL
      SELECT
     AVG(transaction_sales) AS avg_sales_per_transaction
-FROM (
+   FROM (
     SELECT
         TXN_ID,
         SUM(TOT_SALES) AS transaction_sales
