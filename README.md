@@ -23,9 +23,19 @@ There are three files. They come from Quantium retail analytics virtual experien
 | `QVI_purchase_behaviour.csv` | One row per loyalty customer: life stage and premium tier (Budget / Mainstream / Premium) |
 | `QVI_data.csv` | The two above already merged, plus pack size and brand.  **This is the one the analysis runs on.** |
 
-After cleaning, the data has 264,833 rows covering 72,636 loyalty customers across 272 stores, from July 2018 to June 2019 (12 months). 
+### Data Source after cleaning
+- **264,833 transaction records**
+- **72,636 loyalty customers**
+- **272 stores**
+- **12 months of data**
+- Analysis period: **July 2018 to June 2019**
 
-Pre-trial data is from July 2018 - January 2019. Trial data is from February 2019 - April 2019. Post-trial data is from May 2019 - June 2019.
+## Trial Timeline
+| Period | Dates | Purpose |
+|---|---|---|
+| Pre-Trial | Jul 2018 – Jan 2019 | Used to understand historical performance and identify control stores |
+| Trial | Feb 2019 – Apr 2019 | New store layout evaluated |
+| Post-Trial | May 2019 – Jun 2019 | Used to observe performance after the experiment |
 
 # Methodology
 
